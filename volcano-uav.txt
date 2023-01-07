@@ -1,0 +1,4 @@
+This is firs program from volcano-drone
+1. assemble as many as 5 drones
+2. sensor node design
+3. web based gui design
