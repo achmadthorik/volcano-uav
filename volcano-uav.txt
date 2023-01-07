@@ -2,3 +2,5 @@ This is firs program from volcano-drone
 1. assemble as many as 5 drones
 2. sensor node design
 3. web based gui design
+4. add a temperature sensor
+5. add carbon sulfide sensor
