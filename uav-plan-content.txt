@@ -1,5 +1,9 @@
 Plan content UAV
 -Network topology
 -read sensor using esp
-=print data to web monitor
+  ->mq 136
+  ->humidity
+  ->temperature
+  
+-print data to web monitor
 -create monitoring web-based platform
