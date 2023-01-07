@@ -1,0 +1,5 @@
+Plan content UAV
+-Network topology
+-read sensor using esp
+=print data to web monitor
+-create monitoring web-based platform
