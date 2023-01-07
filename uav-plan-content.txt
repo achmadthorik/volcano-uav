@@ -4,7 +4,8 @@ Plan content UAV
   ->mq 136
   ->humidity
   ->temperature
+    ^dht 11
   
--print data to web monitor
 -create monitoring web-based platform
 -add a camera and monitoring with a camera on the web
+-create from framework
