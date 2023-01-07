@@ -11,4 +11,4 @@ Plan content UAV
   
 -create monitoring web-based platform
 -add a camera and monitoring with a camera on the web
-
+-create from framework
